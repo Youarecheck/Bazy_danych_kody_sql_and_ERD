@@ -1,0 +1,10 @@
+{
+  "id": "T001",
+  "data": "2026-06-01 10:30:00",
+  "status": "dostarczone",
+  "klient": "Jan Kowalski",
+  "produkt": "Płyta główna",
+  "cena": 349.99,
+  "sztuk": 2,
+  "faktura": "FV/001"
+}
